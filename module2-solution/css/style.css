@@ -32,17 +32,17 @@ section>h2 {
     padding-top: 10px;
 }
 
-section.lebesgue>h2 {
-    background-color: #76b8db;
+section.head>h2 {
+    background-color: #76b8dc;
 }
 
-section.fubini>h2 {
-    background-color: #4f7acd;
+section.trunk>h2 {
+    background-color: #4f7acb;
 }
 
-section.luzin>h2 {
+section.limb>h2 {
     color: #e2e2e2;
-    background-color: #10328a;
+    background-color: #10328b;
 }
 
 section>p {
